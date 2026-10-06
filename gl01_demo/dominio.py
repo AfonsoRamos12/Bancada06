@@ -18,7 +18,7 @@ def criar_resumo(mensagem):
     return {
         "device_id": mensagem["device_id"],
         "quantity": mensagem["quantity"],
-        "value": mensagem["value"],
+        "value": mensagem["value"] or None,
         "unit": mensagem["unit"],
         "quality": mensagem["quality"],
         "source_kind": mensagem["source_kind"],
