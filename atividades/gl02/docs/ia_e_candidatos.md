@@ -31,4 +31,6 @@ Usar apenas as amostras sintéticas fornecidas; sem credenciais ou dados de pess
 	   a longo prazo que podem compremeter um programa inteiro.
 	4. A evidência exigida é o entendimento e reproduzibildade do código utilizado.
 
+6. 
+
 

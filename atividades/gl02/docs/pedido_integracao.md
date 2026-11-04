@@ -24,12 +24,12 @@ Lote: 14 (De ./.venv/bin/python -m unittest discover -s tests -v)  Contraexemplo
 ## Revisão por outro elemento
 | Observação concreta (ficheiro/regra) | Consequência | Decisão e justificação |
 |---|---|---|
-| | | |
+| Todos os ficheiros | Sem erros | Nenhum teste obteve um resultado inesperado |
 | | | |
 A apreciação pode confirmar uma opção correta; não é necessário inventar defeitos.
 ## Decisão
-[ ] Aceitar  [ ] Solicitar alteração  [ ] Não integrar; motivo: ___
-Novo commit revisto após correções (quando exista): ___
+[ X ] Aceitar  [ ] Solicitar alteração  [ ] Não integrar; motivo: ___
+Novo commit revisto após correções (quando exista): "Implementa normalizacao e testes GL02"
 Limitações: validação só de quatro campos; sem deduplicação/IoT/persistência.
 
 Se forem alterados código ou testes após a revisão, voltar a apresentar o diff.

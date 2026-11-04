@@ -1,10 +1,12 @@
 # GL01: Arquitetura inicial (preencher)
-Código do grupo: [preencher] | Bancada: [preencher] | Data: [preencher]
+Código do grupo: b06 | Bancada: 6 | Data: 06/10/2026
 
 ## 1. Requisito inicial do projeto (ligado a R01/MP01)
 Identificador: [RF-G01-01]
-Enunciado com condição e resultado observável: [preencher]
-Critério Dado / Quando / Então: [preencher]
+Enunciado com condição e resultado observável: Preparação do ambinte e primeira execução
+Critério Dado / Quando / Então: 
+Dado um acesso de ambiente 
+
 Marco futuro em que será demonstrado: [M1/M2/M3; justificar]
 Este requisito é uma proposta, não uma alteração silenciosa ao MP01.
 
